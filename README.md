@@ -1,7 +1,7 @@
 ## Installation
 
 ```bash
-go get github.com/lineoit/sqlw
+go get -u github.com/LineoIT/sqlw
 ```
 
 ## How to use
