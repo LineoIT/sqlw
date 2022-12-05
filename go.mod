@@ -1,3 +1,3 @@
-module github.com/ckam225/sqlw
+module github.com/LineoIT/sqlw
 
 go 1.19
